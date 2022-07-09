@@ -1,3 +1,4 @@
+#frame any capture manually using spacebar
 import numpy as np
 import cv2
 
