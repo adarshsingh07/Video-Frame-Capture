@@ -1,6 +1,5 @@
- 
-from itertools import count
-from sre_constants import SUCCESS
+#Exracts every frame from an video
+
 import numpy as np
 import cv2 
 import os
